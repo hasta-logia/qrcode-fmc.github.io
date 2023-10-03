@@ -21,8 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Live Site URL: [GitHub Pages](https://hasta-logia.github.io/qrcode-fmc.github.io/)
 
 ## My process
 
@@ -44,7 +43,3 @@ I tried to create a QR code component and make it look as similar to the design 
 ## Author
 
 -   Frontend Mentor - [@hasta-logia](https://www.frontendmentor.io/profile/hasta-logia)
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
